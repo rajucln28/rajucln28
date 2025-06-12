@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm C Laskhmi Narayana Raju</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Going deeper in Machine Learning, Deep Learning**
+- 🌱 I’m currently learning ,**going deeper in Machine Learning, Deep Learning**
 
 - 🤝 I’m looking for help with **To Build Real World Projects**
 
